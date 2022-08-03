@@ -132,7 +132,7 @@ margin-right: 2rem;
 
 }
 .navegacion a:hover {
-    color:#71b100;
+    color:#e08709;
 }
 
 /* encabezado nosotros*/
@@ -426,3 +426,10 @@ textarea{
     background: #4f4f4f;
 }
 
+.centrar{
+    text-align: center;
+}
+
+.textocolor{
+  color: #e08709;
+}
